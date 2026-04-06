@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "d:\\RAG\\rag_env\\Scripts\\python.exe",
+  "python.analysis.extraPaths": ["d:\\RAG"],
+  "python.terminal.activateEnvironment": true
+}
